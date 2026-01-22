@@ -1,21 +1,30 @@
-# Calculadora de IMC
+# 🧮 Calculadora de IMC
 
-Projeto desenvolvido com os ensinamentos do canal **Larissa Kick**, implementando uma calculadora de IMC usando HTML, CSS e JavaScript.
+Projeto desenvolvido com base nos ensinamentos do canal **Larissa Kick**, com o objetivo de praticar HTML, CSS e JavaScript através da criação de uma calculadora de IMC funcional e responsiva.
 
-**Experimente ao vivo:**  
+🔗 **Acesse o projeto online:**  
 https://luizagostinho.github.io/calculadora-imc/
 
 ---
 
-## Tecnologias Utilizadas
+## 🚀 Funcionalidades
 
-- **HTML** — estrutura principal da página  
-- **CSS** — estilo visual e layout responsivo  
-- **JavaScript** — lógica de cálculo do IMC e interação com o usuário
+- Cálculo automático do IMC a partir do peso e altura  
+- Exibição da classificação (Abaixo do peso, Normal, Sobrepeso, etc.)  
+- Validação de campos vazios ou inválidos  
+- Interface simples e responsiva  
 
 ---
 
-## Como Executar Localmente
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** — estrutura da aplicação  
+- **CSS3** — estilização e layout responsivo  
+- **JavaScript** — lógica de cálculo e manipulação do DOM  
+
+---
+
+## 💻 Como Executar Localmente
 
 1. Clone o repositório:
    ```bash
